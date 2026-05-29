@@ -1,0 +1,5 @@
+name = "leanMeanMachine"
+defaultTargets = ["Intro"]
+
+[[lean_lib]]
+name = "Intro"
